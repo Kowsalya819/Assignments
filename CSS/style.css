@@ -2,8 +2,7 @@
     background-image: url('https://ik.imagekit.io/jxnoajxft/Html/8d29bd57-a026-4eb3-b01a-ae1e3c9ba679.jpg?updatedAt=1748787476261');
     background-repeat: no-repeat;
     height: 800px;
-    width: 340px;
-   
+    width: 340px; 
 }
 .h1{
     text-align: center;
@@ -23,8 +22,7 @@
     background: orange;
     height: 40px;
     width: 80px;
-    color: white;
-    
+    color: white;   
 }
 .skip{
     text-decoration: underline;
